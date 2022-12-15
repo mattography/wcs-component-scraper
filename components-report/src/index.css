@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  font-family: 'Oracle Sans';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.pillar-tabs button {
+  font-family: "Oracle Sans";
+  color: #000;
+}
+.loading {
+  width: 100%;
+  text-align: center;
+  font-family: 'Oracle Sans';
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 150%);
+}
+
+.loader {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: inline-block;
+  position: relative;
+  border: 3px solid;
+  border-color: #FFF #FFF transparent transparent;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+.loader::after,
+.loader::before {
+  content: '';  
+  box-sizing: border-box;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  border: 3px solid;
+  border-color: transparent transparent #009a09 #009a09;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  box-sizing: border-box;
+  animation: rotationBack 0.5s linear infinite;
+  transform-origin: center center;
+}
+.loader::before {
+  width: 32px;
+  height: 32px;
+  border-color: #FFF #FFF transparent transparent;
+  animation: rotation 1.5s linear infinite;
+}
+    
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+} 
+@keyframes rotationBack {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+
+.a11yStatusWrapper {
+  display: flex;
+  align-items: center;
+}
+.a11yReadyTag{
+  color: #e58e01;
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  font-weight: 800;
+}
+.a11yUnknownTag{
+  color: #D63B25;
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  font-weight: 800;
+}
+.a11yTrueTag{
+  color: #009a09;
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  font-weight: 800;
+}
+.components-details{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.components-details #download-link {
+  display: flex;
+  align-items: center;
+}

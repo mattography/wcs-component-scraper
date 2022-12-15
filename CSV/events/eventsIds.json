@@ -1,0 +1,1582 @@
+[
+  {
+    "url": "https://www.oracle.com/corporate/events/cloudtestdrive/",
+    "ids": [
+      { "id": "F11" },
+      { "id": "U28v1" },
+      { "id": "U03" },
+      { "id": "CW22" },
+      { "id": "C81" },
+      { "id": "U10v6" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/converged-database-event-series.html",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH12", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/enterprise-manager-webcast-series.html",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH12", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB27v5", "type": "a11y-unknown" },
+      { "id": "CN25", "type": "a11y-unknown" },
+      { "id": "CB64v3", "type": "a11y-unknown" },
+      { "id": "CB64", "type": "a11y-unknown" },
+      { "id": "CB64v3", "type": "a11y-unknown" },
+      { "id": "CB64", "type": "a11y-unknown" },
+      { "id": "U10v3", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/exadata-virtual-events.html",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH12", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/financial-analyst-meeting-2018/",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CW76", "type": "a11y-unknown" },
+      { "id": "U10v3", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/financial-analyst-meeting-2019/",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CB101", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/live/new-autonomous-services/",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH13v2", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CB130", "type": "a11y-unknown" },
+      { "id": "CB101", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB46", "type": "a11y-unknown" },
+      { "id": "CW58v1", "type": "a11y-unknown" },
+      { "id": "CB89", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/maa-webcast-series.html",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH12", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/oci-webcast-series.html",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH12", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CN26v1", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB137", "type": "a11y-unknown" },
+      { "id": "U10v3", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/corporate/events/oracle-communications-mbx.html",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH13v4", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "RC55", "type": "a11y-true" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/advertising-cx-executive-experiences/cust-centric-innovation/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC44", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/advertising-cx-executive-experiences/service-of-cx-chicago/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/advertising-cx-executive-experiences/subscription-economy/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "RC10v3", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/aon/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/baylor-university/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/chipotle/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC56", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/grupo-bimbo/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/heartio/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/oracle-red-bull-racing/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/starbucks/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/workforce-software/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/xerox/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/customer-spotlight/yellow-corporation/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/cx-at-home/history-of-cx/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC44", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/cx-at-home/science-of-cx/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC44", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/cx-at-home/spirit-of-cx/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC44", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/cx-at-home/stars-of-cx/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC44", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/dx4c/",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH13v2", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CW76", "type": "a11y-unknown" },
+      { "id": "CB89v2", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/java-graalvm-webcasts/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "RC46", "type": "a11y-true" },
+      { "id": "RC59v1", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RT01", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/accelerate-cloud-strategy/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/advancing-future-cloud-arm-based-computing/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/analytics-innovations/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-unknown" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/applications/jul-2021/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/applications/mar-2021/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC55", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/applications/nov-2021/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC39v5", "type": "a11y-true" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/breakthrough-mysql-innovation/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-unknown" },
+      { "id": "RC52", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/breakthroughs-cloud-infrastructure-and-hpc/",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH13v2", "type": "a11y-true" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CB130", "type": "a11y-true" },
+      { "id": "CB101", "type": "a11y-true" },
+      { "id": "CW58v1", "type": "a11y-true" },
+      { "id": "CW58v1", "type": "a11y-true" },
+      { "id": "CB89", "type": "a11y-true" },
+      { "id": "U10v3", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/cx-advertising-innovations/feb-2021/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/cx-advertising-innovations/spring-2021/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC52", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/expanding-possibilities-hybrid-cloud/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/future-of-crm/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC39v5", "type": "a11y-true" },
+      { "id": "RC52", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/future-of-data-lakehouse/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC44v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC39v5", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/future-of-data-lakehouse/on-demand/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC39v5", "type": "a11y-true" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/future-of-employee-experience/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC44v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/future-of-employee-experience/on-demand/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC39v5", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/future-of-healthcare/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC39v5", "type": "a11y-ready" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/hybrid-cloud-redefined/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC39v2", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/multicloud-observability-and-management/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-unknown" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/mysql-heatwave-innovations/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/mysql-heatwave-ml/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC44v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC39v5", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/mysql-heatwave-ml/on-demand/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "RC39v5", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/new-autonomous-data-warehouse-innnovations/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC48", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/new-database-innovations/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47v1", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC52", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/run-workloads-your-way-on-oci/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC51", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC39v5", "type": "a11y-true" },
+      { "id": "CB105", "type": "a11y-ready" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/run-workloads-your-way-on-oci/on-demand/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC39v5", "type": "a11y-true" },
+      { "id": "RC52v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/security-services-for-posture-management/",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH13v2", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CB130", "type": "a11y-unknown" },
+      { "id": "CW76", "type": "a11y-unknown" },
+      { "id": "CC01", "type": "a11y-unknown" },
+      { "id": "CB89", "type": "a11y-unknown" },
+      { "id": "U10v3", "type": "a11y-unknown" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/live/the-time-is-now/",
+    "ids": [
+      { "id": "F11v6", "type": "a11y-unknown" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "CH13v2", "type": "a11y-unknown" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "CN21", "type": "a11y-unknown" },
+      { "id": "CB130", "type": "a11y-unknown" },
+      { "id": "CB101", "type": "a11y-unknown" },
+      { "id": "CB101", "type": "a11y-unknown" },
+      { "id": "CB101", "type": "a11y-unknown" },
+      { "id": "CB101", "type": "a11y-unknown" },
+      { "id": "CT13", "type": "a11y-unknown" },
+      { "id": "W01v5", "type": "a11y-unknown" },
+      { "id": "W01v5", "type": "a11y-unknown" },
+      { "id": "W01v5", "type": "a11y-unknown" },
+      { "id": "W01v5", "type": "a11y-unknown" },
+      { "id": "W01v5", "type": "a11y-unknown" },
+      { "id": "CW76", "type": "a11y-unknown" },
+      { "id": "CC02", "type": "a11y-ready" },
+      { "id": "CC02", "type": "a11y-ready" },
+      { "id": "CB111v1", "type": "a11y-unknown" },
+      { "id": "CB89", "type": "a11y-unknown" },
+      { "id": "U10v3", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/oracle-analytics-summit-series/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "RC46", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/oracle-analytics-summit-series/thrive-with-oa/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/podcasts/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v5", "type": "a11y-true" },
+      { "id": "U03v5", "type": "a11y-unknown" },
+      { "id": "RH07v2", "type": "a11y-true" },
+      { "id": "RT01", "type": "a11y-true" },
+      { "id": "RC55v1", "type": "a11y-true" },
+      { "id": "RC55v1", "type": "a11y-true" },
+      { "id": "RC55v1", "type": "a11y-true" },
+      { "id": "RC55v1", "type": "a11y-true" },
+      { "id": "RC55v1", "type": "a11y-true" },
+      { "id": "RC55v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/back-to-selling/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/digital-experiences/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/future-of-cx/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/intelligent-service/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/manufacturing-insights/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/personalization-success/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/personalized-marketing/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/retail-insights-during/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC51", "type": "a11y-unknown" },
+      { "id": "RC49v1", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-ready" },
+      { "id": "RC54", "type": "a11y-ready" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/retail-insights-on-demand/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-cx/retail-insights/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-erp/big-moves/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC56", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-erp/connected-planning/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-erp/epm/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-erp/erp-outpace-change/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-erp/higher-education/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-erp/scm-continuous-innovation/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-erp/scm-perfect-delivery/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-erp/scm/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/ai-at-work/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "RC10v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/diversity-inclusion/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-unknown" },
+      { "id": "RC54", "type": "a11y-ready" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/e-business-suite/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/employee-mental-health/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "RC56", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/hr-can-lead-change/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/hr-finance/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/peoplesoft/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/skills-matter/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/taleo/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC24", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC11", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-hcm/work-made-human/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC50", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC54", "type": "a11y-true" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/banking-on-data/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/build-applications-with-low-code/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/dedicated-region-cloud-at-customer/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/isv-run-applications-on-oci/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/lowering-costs-with-database-consolidation/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/modern-data-warehouse/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/move-and-improve/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "RC11v1", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/oracle-cloud-platform-vmware/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/self-service-cloud-data-warehouse/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/virtual-summits/cloud-platform/transform-your-business/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v3", "type": "a11y-true" },
+      { "id": "F22v1", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "RC57", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  },
+  {
+    "url": "https://www.oracle.com/events/win-with-data/",
+    "ids": [
+      { "id": "F20", "type": "a11y-true" },
+      { "id": "U30v3", "type": "a11y-unknown" },
+      { "id": "RH03v4", "type": "a11y-true" },
+      { "id": "RC47", "type": "a11y-true" },
+      { "id": "U10v6", "type": "a11y-unknown" }
+    ]
+  }
+]

@@ -1,0 +1,2973 @@
+{
+  "F20": {
+    "id": "F20",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/application-development/cloud-services/developer-service/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/middleware/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/products/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/industries/?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/it-infrastructure/take-back-and-recycling/programs.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts",
+      "https://www.oracle.com/partnernetwork/?wscallouts",
+      "https://www.oracle.com/startup/?wscallouts",
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/executives/board-of-directors.html?wscallouts",
+      "https://www.oracle.com/corporate/executives/?wscallouts",
+      "https://www.oracle.com/corporate/acquisitions/?wscallouts",
+      "https://www.oracle.com/corporate/customers/references.html?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts",
+      "https://www.oracle.com/events?wscallouts",
+      "https://www.oracle.com/cloud/costestimator.html?wscallouts"
+    ]
+  },
+  "U30": {
+    "id": "U30",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/application-development/cloud-services/developer-service/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/middleware/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts",
+      "https://www.oracle.com/cloud/costestimator.html?wscallouts"
+    ]
+  },
+  "RH09v1": {
+    "id": "RH09v1",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/cloud/?wscallouts"]
+  },
+  "RC11": {
+    "id": "RC11",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/industries/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/customers/references.html?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts"
+    ]
+  },
+  "RC105": {
+    "id": "RC105",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/cloud/?wscallouts"]
+  },
+  "RC103": {
+    "id": "RC103",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/applications/?wscallouts"
+    ]
+  },
+  "RC11v1": {
+    "id": "RC11v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/events?wscallouts"
+    ]
+  },
+  "RC68v2": {
+    "id": "RC68v2",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/products/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts"
+    ]
+  },
+  "RC64v1": {
+    "id": "RC64v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts"
+    ]
+  },
+  "RC43v1": {
+    "id": "RC43v1",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/cloud/?wscallouts"]
+  },
+  "RC74v1": {
+    "id": "RC74v1",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/cloud/?wscallouts"]
+  },
+  "RC102": {
+    "id": "RC102",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts"
+    ]
+  },
+  "RC37v1": {
+    "id": "RC37v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts"
+    ]
+  },
+  "RC97": {
+    "id": "RC97",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts"
+    ]
+  },
+  "U10v6": {
+    "id": "U10v6",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cloud/?wscallouts",
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/technologies/high-availability.html?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/application-development/cloud-services/developer-service/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/middleware/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/products/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/industries/?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/support/lifetime-support/?wscallouts",
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts",
+      "https://www.oracle.com/support/policies.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/it-infrastructure/take-back-and-recycling/programs.html?wscallouts",
+      "https://www.oracle.com/support/assurance/?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts",
+      "https://www.oracle.com/technical-resources/?wscallouts",
+      "https://www.oracle.com/partnernetwork/?wscallouts",
+      "https://www.oracle.com/startup/?wscallouts",
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/executives/board-of-directors.html?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/executives/?wscallouts",
+      "https://www.oracle.com/experience-inspiration/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/corporate-facts.html?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts",
+      "https://www.oracle.com/corporate/acquisitions/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/publishing/?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts",
+      "https://www.oracle.com/corporate/customers/references.html?wscallouts",
+      "https://www.oracle.com/corporate/cvc.html?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts",
+      "https://www.oracle.com/corporate/security-practices/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts",
+      "https://www.oracle.com/events?wscallouts",
+      "https://www.oracle.com/cloud/costestimator.html?wscallouts"
+    ]
+  },
+  "U30v3": {
+    "id": "U30v3",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/database/technologies/high-availability.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/database/technologies/appdev/rest.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/products/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/industries/?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/support/lifetime-support/?wscallouts",
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts",
+      "https://www.oracle.com/support/policies.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/it-infrastructure/take-back-and-recycling/programs.html?wscallouts",
+      "https://www.oracle.com/support/assurance/?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/technical-resources/?wscallouts",
+      "https://www.oracle.com/partnernetwork/?wscallouts",
+      "https://www.oracle.com/startup/?wscallouts",
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/executives/board-of-directors.html?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/executives/?wscallouts",
+      "https://www.oracle.com/corporate/corporate-facts.html?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts",
+      "https://www.oracle.com/corporate/acquisitions/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/publishing/?wscallouts",
+      "https://www.oracle.com/corporate/customers/references.html?wscallouts",
+      "https://www.oracle.com/corporate/cvc.html?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts",
+      "https://www.oracle.com/corporate/security-practices/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts",
+      "https://www.oracle.com/events?wscallouts"
+    ]
+  },
+  "CT12": {
+    "id": "CT12",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/support/lifetime-support/?wscallouts",
+      "https://www.oracle.com/support/assurance/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/startup/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/publishing/?wscallouts"
+    ]
+  },
+  "RH03v3": {
+    "id": "RH03v3",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/products/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/?wscallouts",
+      "https://www.oracle.com/industries/?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/it-infrastructure/take-back-and-recycling/programs.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts",
+      "https://www.oracle.com/startup/?wscallouts",
+      "https://www.oracle.com/corporate/acquisitions/?wscallouts",
+      "https://www.oracle.com/corporate/customers/references.html?wscallouts",
+      "https://www.oracle.com/events?wscallouts"
+    ]
+  },
+  "RC46": {
+    "id": "RC46",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/products/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/partnernetwork/?wscallouts"
+    ]
+  },
+  "RC59v1": {
+    "id": "RC59v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts"
+    ]
+  },
+  "RC59v5": {
+    "id": "RC59v5",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts"
+    ]
+  },
+  "RC02": {
+    "id": "RC02",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/?wscallouts",
+      "https://www.oracle.com/support/?wscallouts",
+      "https://www.oracle.com/startup/?wscallouts",
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/executives/board-of-directors.html?wscallouts",
+      "https://www.oracle.com/corporate/executives/board-of-directors.html?wscallouts",
+      "https://www.oracle.com/corporate/executives/?wscallouts",
+      "https://www.oracle.com/corporate/executives/?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts"
+    ]
+  },
+  "RC56": {
+    "id": "RC56",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts"
+    ]
+  },
+  "RC29": {
+    "id": "RC29",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/applications/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts"
+    ]
+  },
+  "RC59v6": {
+    "id": "RC59v6",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts"
+    ]
+  },
+  "RC13": {
+    "id": "RC13",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts",
+      "https://www.oracle.com/partnernetwork/?wscallouts",
+      "https://www.oracle.com/corporate/customers/references.html?wscallouts"
+    ]
+  },
+  "RC30v1": {
+    "id": "RC30v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/take-back-and-recycling/programs.html?wscallouts"
+    ]
+  },
+  "RC68": {
+    "id": "RC68",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/startup/?wscallouts"
+    ]
+  },
+  "RC66v1": {
+    "id": "RC66v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts"
+    ]
+  },
+  "RC28": {
+    "id": "RC28",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts"
+    ]
+  },
+  "RC36": {
+    "id": "RC36",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/it-infrastructure/take-back-and-recycling/programs.html?wscallouts"
+    ]
+  },
+  "RC34v1": {
+    "id": "RC34v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts"
+    ]
+  },
+  "RC30": {
+    "id": "RC30",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/it-infrastructure/take-back-and-recycling/programs.html?wscallouts"
+    ]
+  },
+  "RC24": {
+    "id": "RC24",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/application-development/cloud-services/developer-service/?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/middleware/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts",
+      "https://www.oracle.com/downloads/?wscallouts"
+    ]
+  },
+  "RC74": {
+    "id": "RC74",
+    "type": "a11y-ready",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts"
+    ]
+  },
+  "RC31": {
+    "id": "RC31",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/autonomous-database/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/products/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts",
+      "https://www.oracle.com/partnernetwork/?wscallouts"
+    ]
+  },
+  "RH03v1": {
+    "id": "RH03v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts"
+    ]
+  },
+  "RC59": {
+    "id": "RC59",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cloud/cloud-at-customer/?wscallouts",
+      "https://www.oracle.com/security/?wscallouts",
+      "https://www.oracle.com/database/technologies/?wscallouts",
+      "https://www.oracle.com/big-data/?wscallouts",
+      "https://www.oracle.com/engineered-systems/?wscallouts",
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/database/security/?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/storage/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/java/?wscallouts",
+      "https://www.oracle.com/middleware/weblogic/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/blockchain/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts"
+    ]
+  },
+  "RH03v4": {
+    "id": "RH03v4",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/engineered-systems/database-appliance/?wscallouts",
+      "https://www.oracle.com/engineered-systems/exadata/?wscallouts",
+      "https://www.oracle.com/engineered-systems/zero-data-loss-recovery-appliance/?wscallouts",
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/cloud/cloud-native/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/partnernetwork/?wscallouts",
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts"
+    ]
+  },
+  "RC59v2": {
+    "id": "RC59v2",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts"
+    ]
+  },
+  "RC62v4": {
+    "id": "RC62v4",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts"
+    ]
+  },
+  "RT01": {
+    "id": "RT01",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts"
+    ]
+  },
+  "RC24v1": {
+    "id": "RC24v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/connect-and-extend/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/it-infrastructure/take-back-and-recycling/programs.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/corporate/acquisitions/?wscallouts"
+    ]
+  },
+  "RC47v1": {
+    "id": "RC47v1",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/cloud/connect-and-extend/?wscallouts"]
+  },
+  "RC14": {
+    "id": "RC14",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts"
+    ]
+  },
+  "RC45": {
+    "id": "RC45",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts"
+    ]
+  },
+  "RC03": {
+    "id": "RC03",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/support/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts"
+    ]
+  },
+  "RC07": {
+    "id": "RC07",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/products/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts"
+    ]
+  },
+  "CB105": {
+    "id": "CB105",
+    "type": "a11y-ready",
+    "urls": [
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts"
+    ]
+  },
+  "CB89": {
+    "id": "CB89",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/database/technologies/high-availability.html?wscallouts",
+      "https://www.oracle.com/support/assurance/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts",
+      "https://www.oracle.com/technical-resources/?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts"
+    ]
+  },
+  "CC01": {
+    "id": "CC01",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/try-it.html?source=:ow:o:h:acc:&intcmp=:ow:o:h:acc:?wscallouts",
+      "https://www.oracle.com/support/lifetime-support/?wscallouts",
+      "https://www.oracle.com/try-it.html?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts",
+      "https://www.oracle.com/corporate/publishing/?wscallouts",
+      "https://www.oracle.com/corporate/publishing/?wscallouts",
+      "https://www.oracle.com/corporate/cvc.html?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts"
+    ]
+  },
+  "RC01": {
+    "id": "RC01",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/business-analytics/?wscallouts",
+      "https://www.oracle.com/solutions/business-analytics/?wscallouts"
+    ]
+  },
+  "RC61v1": {
+    "id": "RC61v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts"
+    ]
+  },
+  "F11v6": {
+    "id": "F11v6",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/database/technologies/high-availability.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/technologies/appdev/rest.html?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/support/lifetime-support/?wscallouts",
+      "https://www.oracle.com/support/policies.html?wscallouts",
+      "https://www.oracle.com/support/assurance/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/technical-resources/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/corporate-facts.html?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/publishing/?wscallouts",
+      "https://www.oracle.com/corporate/cvc.html?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts",
+      "https://www.oracle.com/corporate/security-practices/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts"
+    ]
+  },
+  "U03v5": {
+    "id": "U03v5",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/database/technologies/high-availability.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/technologies/appdev/rest.html?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/support/lifetime-support/?wscallouts",
+      "https://www.oracle.com/support/policies.html?wscallouts",
+      "https://www.oracle.com/support/assurance/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/technical-resources/?wscallouts",
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/executives/board-of-directors.html?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/executives/?wscallouts",
+      "https://www.oracle.com/corporate/corporate-facts.html?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/publishing/?wscallouts",
+      "https://www.oracle.com/corporate/cvc.html?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts",
+      "https://www.oracle.com/corporate/security-practices/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts"
+    ]
+  },
+  "CB83v2": {
+    "id": "CB83v2",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/database/technologies/high-availability.html?wscallouts",
+      "https://www.oracle.com/database/technologies/appdev/rest.html?wscallouts"
+    ]
+  },
+  "CB103": {
+    "id": "CB103",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts"
+    ]
+  },
+  "CW65": {
+    "id": "CW65",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts"
+    ]
+  },
+  "CB82": {
+    "id": "CB82",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts",
+      "https://www.oracle.com/corporate/cvc.html?wscallouts"
+    ]
+  },
+  "CB84v1": {
+    "id": "CB84v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts"
+    ]
+  },
+  "CW77v1": {
+    "id": "CW77v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts"
+    ]
+  },
+  "CB87v1": {
+    "id": "CB87v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts"
+    ]
+  },
+  "CB27v5": {
+    "id": "CB27v5",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/solutions/migration-to-cloud.html?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/support/policies.html?wscallouts"
+    ]
+  },
+  "RC77": {
+    "id": "RC77",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts"
+    ]
+  },
+  "RC34v2": {
+    "id": "RC34v2",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/database/data-warehouse/?wscallouts",
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/solutions/mobile/bots.html?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts",
+      "https://www.oracle.com/chatbots/?wscallouts"
+    ]
+  },
+  "RC04": {
+    "id": "RC04",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/enterprise-manager/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/servers/?wscallouts",
+      "https://www.oracle.com/java/coherence/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/internet-of-things/?wscallouts",
+      "https://www.oracle.com/partnernetwork/?wscallouts"
+    ]
+  },
+  "CB88": {
+    "id": "CB88",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/technologies/high-availability.html?wscallouts"
+    ]
+  },
+  "CB87": {
+    "id": "CB87",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/technologies/high-availability.html?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/corporate/security-practices/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts"
+    ]
+  },
+  "RC10v1": {
+    "id": "RC10v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts"
+    ]
+  },
+  "RC61": {
+    "id": "RC61",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/mysql/?wscallouts",
+      "https://www.oracle.com/middleware/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts"
+    ]
+  },
+  "CT14": {
+    "id": "CT14",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/database/products-a-z.html?wscallouts"]
+  },
+  "CB85v1": {
+    "id": "CB85v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts"
+    ]
+  },
+  "": {
+    "id": "",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts"
+    ]
+  },
+  "U10v3": {
+    "id": "U10v3",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/products-a-z.html?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts"
+    ]
+  },
+  "RH03": {
+    "id": "RH03",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/application-development/cloud-services/developer-service/?wscallouts",
+      "https://www.oracle.com/application-development/low-code/visual-builder/?wscallouts",
+      "https://www.oracle.com/engineered-systems/big-data-appliance/?wscallouts",
+      "https://www.oracle.com/servers/private-cloud-appliance/?wscallouts",
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/support/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts"
+    ]
+  },
+  "RC98": {
+    "id": "RC98",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/middleware/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts"
+    ]
+  },
+  "RC101": {
+    "id": "RC101",
+    "type": "a11y-ready",
+    "urls": [
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/application-development/?wscallouts",
+      "https://www.oracle.com/middleware/?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts"
+    ]
+  },
+  "RC104": {
+    "id": "RC104",
+    "type": "a11y-ready",
+    "urls": [
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts"
+    ]
+  },
+  "RC100": {
+    "id": "RC100",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts"
+    ]
+  },
+  "RC22v2": {
+    "id": "RC22v2",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cloud/systems-management/cloud-services.html?wscallouts",
+      "https://www.oracle.com/middleware/application-integration/?wscallouts",
+      "https://www.oracle.com/middleware/data-integration/?wscallouts",
+      "https://www.oracle.com/artificial-intelligence/?wscallouts"
+    ]
+  },
+  "RC43": {
+    "id": "RC43",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/tools/graalvm-enterprise-edition.html?wscallouts"
+    ]
+  },
+  "CB79": {
+    "id": "CB79",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/technologies/appdev/rest.html?wscallouts",
+      "https://www.oracle.com/technical-resources/?wscallouts"
+    ]
+  },
+  "CW58v1": {
+    "id": "CW58v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/technologies/appdev/rest.html?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts"
+    ]
+  },
+  "CB129": {
+    "id": "CB129",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/database/technologies/appdev/rest.html?wscallouts"
+    ]
+  },
+  "RC10": {
+    "id": "RC10",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/erp/financials-cloud/?wscallouts",
+      "https://www.oracle.com/erp/procurement-cloud/?wscallouts",
+      "https://www.oracle.com/erp/project-portfolio-management-cloud/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/logistics/?wscallouts",
+      "https://www.oracle.com/scm/inventory-management/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts",
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts"
+    ]
+  },
+  "RC16": {
+    "id": "RC16",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/it-infrastructure/software.html?wscallouts",
+      "https://www.oracle.com/erp/?wscallouts"
+    ]
+  },
+  "RC64": {
+    "id": "RC64",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/industries/?wscallouts"
+    ]
+  },
+  "RC77v1": {
+    "id": "RC77v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts"
+    ]
+  },
+  "RC39v4": {
+    "id": "RC39v4",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/industries/communications/enterprise/?wscallouts",
+      "https://www.oracle.com/industries/automotive/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/government/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/healthcare/?wscallouts",
+      "https://www.oracle.com/industries/high-tech/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/industrial-manufacturing/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/research/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts"
+    ]
+  },
+  "RC27": {
+    "id": "RC27",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cloud/paas/content-and-experience-management/?wscallouts",
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts"
+    ]
+  },
+  "F11": {
+    "id": "F11",
+    "urls": [
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/experience-inspiration/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts"
+    ]
+  },
+  "U28v1": {
+    "id": "U28v1",
+    "urls": [
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/experience-inspiration/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts"
+    ]
+  },
+  "U03": {
+    "id": "U03",
+    "urls": [
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/experience-inspiration/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts"
+    ]
+  },
+  "CW22": {
+    "id": "CW22",
+    "urls": [
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/experience-inspiration/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts"
+    ]
+  },
+  "CN20v3": {
+    "id": "CN20v3",
+    "urls": ["https://www.oracle.com/solutions/mobile/?wscallouts"]
+  },
+  "C75v1": {
+    "id": "C75v1",
+    "urls": ["https://www.oracle.com/solutions/mobile/?wscallouts"]
+  },
+  "CW31": {
+    "id": "CW31",
+    "urls": ["https://www.oracle.com/solutions/mobile/?wscallouts"]
+  },
+  "CW58": {
+    "id": "CW58",
+    "urls": ["https://www.oracle.com/solutions/mobile/?wscallouts"]
+  },
+  "C78": {
+    "id": "C78",
+    "urls": ["https://www.oracle.com/solutions/mobile/?wscallouts"]
+  },
+  "C85": {
+    "id": "C85",
+    "urls": [
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts"
+    ]
+  },
+  "CN11": {
+    "id": "CN11",
+    "urls": [
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts"
+    ]
+  },
+  "CW21": {
+    "id": "CW21",
+    "urls": [
+      "https://www.oracle.com/solutions/mobile/?wscallouts",
+      "https://www.oracle.com/experience-inspiration/?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts"
+    ]
+  },
+  "RC59v4": {
+    "id": "RC59v4",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts"
+    ]
+  },
+  "RC36v3": {
+    "id": "RC36v3",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/ecommerce/?wscallouts",
+      "https://www.oracle.com/cx/sales/cpq/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts"
+    ]
+  },
+  "RC36v4": {
+    "id": "RC36v4",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cx/?wscallouts",
+      "https://www.oracle.com/cx/advertising/?wscallouts",
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts",
+      "https://www.oracle.com/cx/service/?wscallouts",
+      "https://www.oracle.com/erp/risk-management/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/scm/?wscallouts",
+      "https://www.oracle.com/scm/supply-chain-planning/?wscallouts",
+      "https://www.oracle.com/scm/order-management/?wscallouts",
+      "https://www.oracle.com/scm/product-lifecycle-management/?wscallouts",
+      "https://www.oracle.com/scm/manufacturing/?wscallouts",
+      "https://www.oracle.com/scm/maintenance/?wscallouts",
+      "https://www.oracle.com/corporate/customers/references.html?wscallouts"
+    ]
+  },
+  "RC34": {
+    "id": "RC34",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/cx/sales/cpq/?wscallouts"]
+  },
+  "RC62v6": {
+    "id": "RC62v6",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/marketingcloud/?wscallouts",
+      "https://www.oracle.com/cx/sales/?wscallouts"
+    ]
+  },
+  "U03v6": {
+    "id": "U03v6",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts",
+      "https://www.oracle.com/support/cru-information.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts"
+    ]
+  },
+  "RC23v3": {
+    "id": "RC23v3",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/cx/marketing/social-marketing/?wscallouts"]
+  },
+  "RC78": {
+    "id": "RC78",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts"
+    ]
+  },
+  "RC57": {
+    "id": "RC57",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/cx/marketing/social-marketing/?wscallouts"]
+  },
+  "RC25": {
+    "id": "RC25",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/cx/marketing/social-marketing/?wscallouts",
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts"
+    ]
+  },
+  "RC10v3": {
+    "id": "RC10v3",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/erp/?wscallouts",
+      "https://www.oracle.com/applications/performance-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/?wscallouts"
+    ]
+  },
+  "RC56v1": {
+    "id": "RC56v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/applications/human-capital-management/hr/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/talent-management/?wscallouts",
+      "https://www.oracle.com/applications/human-capital-management/workforce-management/?wscallouts"
+    ]
+  },
+  "F22": {
+    "id": "F22",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts"
+    ]
+  },
+  "RC24v3": {
+    "id": "RC24v3",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/applications/modern-best-practice/?wscallouts"
+    ]
+  },
+  "RC62v1": {
+    "id": "RC62v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/industries/communications/?wscallouts",
+      "https://www.oracle.com/industries/construction-engineering/?wscallouts",
+      "https://www.oracle.com/industries/financial-services/?wscallouts",
+      "https://www.oracle.com/industries/food-beverage/?wscallouts",
+      "https://www.oracle.com/industries/hospitality/?wscallouts",
+      "https://www.oracle.com/industries/life-sciences/?wscallouts",
+      "https://www.oracle.com/industries/retail/?wscallouts",
+      "https://www.oracle.com/industries/utilities/?wscallouts",
+      "https://www.oracle.com/consulting/?wscallouts"
+    ]
+  },
+  "RC04v1": {
+    "id": "RC04v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/solutions/green/?wscallouts",
+      "https://www.oracle.com/solutions/green/?wscallouts"
+    ]
+  },
+  "RC66": {
+    "id": "RC66",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/solutions/green/?wscallouts"]
+  },
+  "CH10": {
+    "id": "CH10",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts"
+    ]
+  },
+  "CB83": {
+    "id": "CB83",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts"
+    ]
+  },
+  "CB78": {
+    "id": "CB78",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/industries/government/education/higher-education/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts"
+    ]
+  },
+  "CC02": {
+    "id": "CC02",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts"
+    ]
+  },
+  "RC52v1": {
+    "id": "RC52v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/support/contact.html#acquired?wscallouts",
+      "https://www.oracle.com/support/contact.html?wscallouts"
+    ]
+  },
+  "RC03v1": {
+    "id": "RC03v1",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/support/?wscallouts"]
+  },
+  "RC37": {
+    "id": "RC37",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/support/?wscallouts"]
+  },
+  "RC32": {
+    "id": "RC32",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/support/premier/?wscallouts"]
+  },
+  "RC35": {
+    "id": "RC35",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/support/premier/?wscallouts",
+      "https://www.oracle.com/support/premier/engineered-systems/platinum-services.html?wscallouts"
+    ]
+  },
+  "RC62": {
+    "id": "RC62",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/support/premier/?wscallouts"]
+  },
+  "RC39v2": {
+    "id": "RC39v2",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts",
+      "https://www.oracle.com/corporate/customers/references.html?wscallouts"
+    ]
+  },
+  "RC05v1": {
+    "id": "RC05v1",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/support/advanced-customer-support/?wscallouts"
+    ]
+  },
+  "CH12v1": {
+    "id": "CH12v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/support/lifetime-support/?wscallouts",
+      "https://www.oracle.com/support/policies.html?wscallouts",
+      "https://www.oracle.com/corporate/accessibility/?wscallouts"
+    ]
+  },
+  "CC01v3": {
+    "id": "CC01v3",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/support/lifetime-support/?wscallouts"]
+  },
+  "RC59v3": {
+    "id": "RC59v3",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts"
+    ]
+  },
+  "RC52": {
+    "id": "RC52",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/support/premier/best-practices.html?wscallouts"
+    ]
+  },
+  "CB117": {
+    "id": "CB117",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/support/policies.html?wscallouts"]
+  },
+  "CB90": {
+    "id": "CB90",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/support/assurance/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts"
+    ]
+  },
+  "RH09v2": {
+    "id": "RH09v2",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/downloads/?wscallouts"]
+  },
+  "RC05": {
+    "id": "RC05",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/consulting/?wscallouts",
+      "https://www.oracle.com/products/financing/?wscallouts"
+    ]
+  },
+  "CH12": {
+    "id": "CH12",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/corporate/corporate-facts.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/publishing/?wscallouts",
+      "https://www.oracle.com/corporate/security-practices/?wscallouts"
+    ]
+  },
+  "CB96": {
+    "id": "CB96",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts"
+    ]
+  },
+  "CB125": {
+    "id": "CB125",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts"
+    ]
+  },
+  "CB125v2": {
+    "id": "CB125v2",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts"
+    ]
+  },
+  "CW65v1": {
+    "id": "CW65v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/education/?wscallouts",
+      "https://www.oracle.com/technical-resources/?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts"
+    ]
+  },
+  "CB149": {
+    "id": "CB149",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/technical-resources/?wscallouts"]
+  },
+  "CB50v3": {
+    "id": "CB50v3",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/technical-resources/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/cvc.html?wscallouts"
+    ]
+  },
+  "RC06": {
+    "id": "RC06",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts"
+    ]
+  },
+  "RC08": {
+    "id": "RC08",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/corporate/#info?wscallouts",
+      "https://www.oracle.com/corporate/supplier-diversity/?wscallouts"
+    ]
+  },
+  "RH03v5": {
+    "id": "RH03v5",
+    "type": "a11y-true",
+    "urls": [
+      "https://www.oracle.com/corporate/executives/board-of-directors.html?wscallouts",
+      "https://www.oracle.com/corporate/executives/?wscallouts"
+    ]
+  },
+  "CB83v4": {
+    "id": "CB83v4",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/citizenship/?wscallouts"]
+  },
+  "CB125v1": {
+    "id": "CB125v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts",
+      "https://www.oracle.com/corporate/citizenship/?wscallouts"
+    ]
+  },
+  "CB150": {
+    "id": "CB150",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/citizenship/?wscallouts"]
+  },
+  "CB71v3": {
+    "id": "CB71v3",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts"
+    ]
+  },
+  "CB83v5": {
+    "id": "CB83v5",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts"
+    ]
+  },
+  "CB102v3": {
+    "id": "CB102v3",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts"
+    ]
+  },
+  "CB102v1": {
+    "id": "CB102v1",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts"
+    ]
+  },
+  "CC05v2": {
+    "id": "CC05v2",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts"
+    ]
+  },
+  "CB122": {
+    "id": "CB122",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/diversity/?wscallouts",
+      "https://www.oracle.com/corporate/careers/?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/diversity.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-we-do/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts",
+      "https://www.oracle.com/corporate/analystrelations/?wscallouts"
+    ]
+  },
+  "C81": {
+    "id": "C81",
+    "urls": [
+      "https://www.oracle.com/experience-inspiration/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts",
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts"
+    ]
+  },
+  "CN07v1": {
+    "id": "CN07v1",
+    "urls": [
+      "https://www.oracle.com/experience-inspiration/?wscallouts",
+      "https://www.oracle.com/corporate/pricing/?wscallouts"
+    ]
+  },
+  "CT06": {
+    "id": "CT06",
+    "urls": [
+      "https://www.oracle.com/corporate/pricing/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts"
+    ]
+  },
+  "CN26v1": {
+    "id": "CN26v1",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/corporate-facts.html?wscallouts"]
+  },
+  "CC01v2": {
+    "id": "CC01v2",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/corporate-facts.html?wscallouts",
+      "https://www.oracle.com/corporate/corporate-facts.html?wscallouts"
+    ]
+  },
+  "CB110": {
+    "id": "CB110",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/corporate-facts.html?wscallouts"]
+  },
+  "CB34": {
+    "id": "CB34",
+    "urls": [
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts",
+      "https://www.oracle.com/corporate/license-management-services/?wscallouts"
+    ]
+  },
+  "CB34v1": {
+    "id": "CB34v1",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/accessibility/?wscallouts"]
+  },
+  "CB124": {
+    "id": "CB124",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts"
+    ]
+  },
+  "CB125v4": {
+    "id": "CB125v4",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/who-we-are.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/citizenship.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/work-at-oracle/benefits.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/?wscallouts"
+    ]
+  },
+  "CH13v3": {
+    "id": "CH13v3",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts"
+    ]
+  },
+  "CW76": {
+    "id": "CW76",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/culture/veterans.html?wscallouts",
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts"
+    ]
+  },
+  "CB123": {
+    "id": "CB123",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/careers/work-we-do/?wscallouts"]
+  },
+  "CW60v2": {
+    "id": "CW60v2",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/careers/students-grads/college/?wscallouts"
+    ]
+  },
+  "CB74v1": {
+    "id": "CB74v1",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/publishing/?wscallouts"]
+  },
+  "C89": {
+    "id": "C89",
+    "urls": [
+      "https://www.oracle.com/corporate/customers/customer-feedback.html?wscallouts"
+    ]
+  },
+  "CB71": {
+    "id": "CB71",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/cvc.html?wscallouts"]
+  },
+  "CC06": {
+    "id": "CC06",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/cvc.html?wscallouts"]
+  },
+  "CB71v1": {
+    "id": "CB71v1",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/cvc.html?wscallouts"]
+  },
+  "CT14v2": {
+    "id": "CT14v2",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/analystrelations/?wscallouts"]
+  },
+  "CW67v3": {
+    "id": "CW67v3",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/analystrelations/?wscallouts"]
+  },
+  "CC04": {
+    "id": "CC04",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/analystrelations/?wscallouts"]
+  },
+  "CC01v1": {
+    "id": "CC01v1",
+    "type": "a11y-unknown",
+    "urls": ["https://www.oracle.com/corporate/security-practices/?wscallouts"]
+  },
+  "CB103v2": {
+    "id": "CB103v2",
+    "type": "a11y-unknown",
+    "urls": [
+      "https://www.oracle.com/corporate/citizenship/sustainability/supply-chain.html#statements?wscallouts"
+    ]
+  },
+  "C84": {
+    "id": "C84",
+    "urls": [
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts",
+      "https://www.oracle.com/corporate/suppliers.html?wscallouts"
+    ]
+  },
+  "RC55": {
+    "id": "RC55",
+    "type": "a11y-true",
+    "urls": ["https://www.oracle.com/events?wscallouts"]
+  },
+  "F11v7": {
+    "id": "F11v7",
+    "urls": ["https://www.oracle.com/openworld/?wscallouts"]
+  },
+  "U20": {
+    "id": "U20",
+    "urls": ["https://www.oracle.com/openworld/?wscallouts"]
+  },
+  "CH01v1": {
+    "id": "CH01v1",
+    "urls": ["https://www.oracle.com/openworld/?wscallouts"]
+  },
+  "U19": {
+    "id": "U19",
+    "urls": ["https://www.oracle.com/openworld/?wscallouts"]
+  }
+}
